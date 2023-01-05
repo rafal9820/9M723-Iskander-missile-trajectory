@@ -1,0 +1,55 @@
+MATHEMATICS IDENTIFICATION
+
+
+% F - applied forces vector [N]
+% Q - Gravity force [N]
+% R - Aerodynamic force [N]
+% T - thrust force [N]
+
+% M_st - Static aerodynamic moment [N*m]
+% M_dm - Dynamic aerodynamic moment [N*m]
+% M - Aerodynamic moment [N*m]
+
+U - velocity about x body axis [m/s] 
+V - velocity about y body axis [m/s]
+W - velocity about z body axis [m/s]
+
+P - roll rate [rad/s]
+Q - pitch rate [rad/s]
+R - yaw rate [rad/s]
+
+C_X0 - Axial force coefficient (\alpha_t = 0)
+C_Xa2 - Derivative of axial force coefficient after sin^2\alpha_t
+C_Na_kadl - Derivative of normal force coefficient after sin\alpha for monocoque
+C_Na_ster - Derivative of normal force coefficient after sin\alpha for fins
+x_sp - coordinate center of pressure [m]
+C_ma - Derivative after pitch moment coefficient slope after sin\alpha
+C_mq - Pitch damping coefficient
+x_sp_kadl - coordinate center of pressure for monocoque [m]
+x_sp_ster - coordinate center of pressure for fins [m]
+
+g - gravitational acceleration [m/s^2]
+a - speed of sound [m/s]
+rho - air density [kg/m^3]
+p - pressure [Pa]
+
+m - mass of rocket [kg]
+x_sm - center of gravity [m]
+I_x - moment of inertia Ix [kg*m^2]
+I - moments of inertia Iy and Iz [kg*m^2]
+
+n_x, n_V, n_p, n_N - unit vectors used to calculate forces and moments
+alfa_t - total angle of attack [rad]
+alfa - angle of attack [rad]
+beta - angle of sideslip [rad]
+phi - roll angle [rad]
+theta - pitch angle [rad]
+psi - yaw angle [rad]
+
+K_w - command control of fins in axis Z
+K_k - command control of fins in axis Y
+K_w_T - command control of thrust vectoring in axis Z
+K_k_T - command control of thrust vectoring in axis Y
+
+delta_w - deflection of fins in axis Z [rad]
+delta_k - deflection of fins in axis Y [rad]
