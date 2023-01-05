@@ -9,11 +9,11 @@ First of all, the dimensions of the individual elements of the rocket were estim
 The rocket flight control model was developed on the basis of available data and assumptions. It was assumed that the launch phase lasts 50 s, where the rocket engine produces the estimated thrust. It was assumed that in the launch phase the rocket is gas-dynamically controlled (thrust vector), as the gas-dynamic rudders are located directly behind the engine nozzle. Aerodynamic control was used only in the middle and terminal stages. The control of the 9M723 rocket is based on programmable control over the entire length of the flight and self-guidance using the proportional navigation method in the terminal phase.
 Programmable control consists in implementing a fixed flight trajectory and digital maps of the terrain surface into the on-board equipment. During the flight, the rocket, using gyroscopes, accelerometers and the GPS module, compares the current position of the object in relation to the programmed flight trajectory and develops control signals based on deviations from this trajectory. During the terminal phase, the optoelectronic or radar head on board the rocket compares digital maps of the terrain surface with the real image of the terrain, correcting its trajectory.
 ## Repository description
-### aerodynamic_characteristics folder
+#### aerodynamic_characteristics folder
 .....
-### atmosphere_model folder
+#### atmosphere_model folder
 .....
-### matlab_model folder 
+#### matlab_model folder 
 .....
-### python_analysis folder
+#### python_analysis folder
 .....
