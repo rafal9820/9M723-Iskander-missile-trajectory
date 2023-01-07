@@ -74,5 +74,18 @@ When analyzing the final phase of the rocket's flight, one should pay attention 
 ![image](https://user-images.githubusercontent.com/118617819/211164642-ef4ee941-5369-495c-ae52-5d9dbd9e23c1.png)
 ![image](https://user-images.githubusercontent.com/118617819/211164659-f60f0235-26e0-4e6a-a17a-cf9e7c858e9c.png)
 
+Figure below presents the Footprint, i.e. the surface on which the 9M723 Iskander rocket can aim, assuming that it was initially supposed to reach the target with coordinates [0,0] (the cross in Figure). It can be noticed that the closer the target is to the launch point of the rocket, the footprint is bigger. This means that the rocket can change its trajectory to a greater extent in the final phase of flight. The difference in surface area in the figure below for different ranges results from the rocket's stay in the lower parts of the atmosphere, as well as from the speed at which the rocket enters the terminal phase.
 
+![image](https://user-images.githubusercontent.com/118617819/211164765-5b954d72-7179-47bd-8fcc-efb78db7d96d.png)
 
+## Flight time
+An important parameter is the duration of the rocket's flight. The rocket flight time is approximately proportional to the distance to the target, as shown in figure below. The dashed red line is an estimate because the rocket can reach the target by performing different maneuvers and taking different trajectories. The range of the estimation error is indicated by a glow around the line. The different value of the estimation error for different distances results from different maneuverability depending on the range.
+
+![image](https://user-images.githubusercontent.com/118617819/211164807-aab2cabf-a48b-4257-ba1c-6144144028ad.png)
+
+From the point of view of missile defense (e.g. of the Patriot system), an important parameter is the time spent by the 9M723 rocket in the terminal phase. Figure below shows the time spent by the Iskander rocket in space for altitudes below 20 km. Different time values can be noticed for different rocket trajectories, as well as for different distances to the target.
+
+![image](https://user-images.githubusercontent.com/118617819/211164857-55093d54-8547-43c9-acb0-bd87004157fd.png)
+
+# Conclusions
+The 9M723 Iskander missile is undoubtedly a major threat to the protected facilities. The simulations show that the rocket can take different trajectories to the same target, which significantly hinders the prediction of the flight path. The range of the Iskander rocket is determined mainly by the launch phase, where gas-dynamic control is performed by means of deflectors deflecting the stream of gases coming out of the engine nozzle. The maneuvers performed do not significantly change the trajectory of the flight in the midcourse phase, but it is enough to change the projectile's range by up to 50 km. The rocket achieves its greatest maneuverability in the terminal phase, where aerodynamic control is used. In this phase, the projectile can reach an overload of up to 30g, but it should be mentioned that this is a momentary overload. The terminal velocity of the 9M723 missile is mainly dependent on the range to the target and the number of maneuvers. On the one hand, the maneuverability of the missile makes prediction difficult, but it causes the missile to lose speed, which can greatly affect the performance of missile defense. Maneuvering by the 9M723 missile also means that the missile stays in the anti-missile threat zone for longer. The rocket flight lasts up to 6 minutes over a distance of 575 km, which is due to the fact that the Iskander rocket maintains a speed of about Mach 7 in the middle phase.
