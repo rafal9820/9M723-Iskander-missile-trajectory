@@ -24,4 +24,18 @@ Contains Jupyter Notebook file (.ipynb) and data_from_matlab folder. Jupyter Not
 The starting phase is used to give the missile the appropriate speed and angle of inclination so that the missile can reach the appropriate range.
 
 ![image](https://user-images.githubusercontent.com/118617819/211163858-22f2be8e-9653-4859-9e2c-41fc7bb2e82f.png)
-          *Fig. 1. The speed of the 9M723 rocket in the boost phase*
+*Fig. 1. The speed of the 9M723 rocket in the boost phase*
+
+During the boost phase, the object is subjected to a thrust force, and the thrust vector can be deflected by gas-dynamic rudders. The operation of the rocket engine during the launch phase increases the speed of the object. Fig.1. shows a graph of the velocity in the frame associated with the object. The value of the speed after the start phase is about 2200 m/s. You can notice a decrease in the longitudinal velocity (“U”) during maneuvers (“W” - velocity perpendicular to the projectile axis).
+During the starting phase, there are overloads exceeding 20g at times. This is because the missile must tilt to a predetermined angle to enter the optimal ballistic trajectory.
+
+![image](https://user-images.githubusercontent.com/118617819/211164033-e5febcd5-f04f-46c1-8620-e8f14ecced90.png)
+*Fig. 2. Overloads acting on the 9M723 rocket in the launch phase*
+
+The launch phase mainly determines the range of the rocket, therefore the flight trajectory of the 9M723 rocket in the launch phase depends on the distance of the target. It can be noticed that the smaller the target range of the rocket, the more the rocket's trajectory "leans" relative to the plane of the Earth.
+
+![image](https://user-images.githubusercontent.com/118617819/211164071-762d8e17-00fb-40b7-8068-1762c1170108.png)
+*Fig. 3. Trajectory of the 9M723 rocket in the boost phase for different ranges*
+
+Performing a maneuver during the boost phase leads to a loss of speed, so there is a relationship between the speed after the launch phase of the rocket and the distance to the target (range). As shown in Fig. 3. the speed after the boost phase is directly proportional to the distance to the target. The speed of the rocket after the boost phase, as well as the pitch angle of the rocket, determines the range and the value of the speed with which the rocket enters the terminal phase.
+
