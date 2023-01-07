@@ -24,4 +24,4 @@ Contains Jupyter Notebook file (.ipynb) and data_from_matlab folder. Jupyter Not
 The starting phase is used to give the missile the appropriate speed and angle of inclination so that the missile can reach the appropriate range.
 
 ![image](https://user-images.githubusercontent.com/118617819/211163858-22f2be8e-9653-4859-9e2c-41fc7bb2e82f.png)
-Fig. 3.2. The speed of the 9M723 rocket in the boost phase
+          *Fig. 1. The speed of the 9M723 rocket in the boost phase*
