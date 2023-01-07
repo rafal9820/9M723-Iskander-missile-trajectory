@@ -19,3 +19,9 @@ Contains Matlab files (.m; .mlx) and .mpr folder. Data from AutoCad software are
 Contains Matlab files (.m; .mlx), Simulink files (.slx) and simulink_screenshoots folder. Simulink file (simulation_model.slx) contains the entire mathematical model of the missile's motion. Matlab file shows an exemplary simulation with given initial conditions.
 #### python_analysis folder
 Contains Jupyter Notebook file (.ipynb) and data_from_matlab folder. Jupyter Notebook file contains an analysis of the parameters of the Iskander rocket trajectory based on data from simulations for various variants of manoeuvres.
+# Research results
+## Boost phase
+The starting phase is used to give the missile the appropriate speed and angle of inclination so that the missile can reach the appropriate range.
+
+![image](https://user-images.githubusercontent.com/118617819/211163858-22f2be8e-9653-4859-9e2c-41fc7bb2e82f.png)
+Fig. 3.2. The speed of the 9M723 rocket in the boost phase
