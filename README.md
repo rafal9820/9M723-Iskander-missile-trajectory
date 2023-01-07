@@ -61,4 +61,18 @@ Figure above shows the graph of the terminal phase velocity for different types 
 
  The terminal velocity of the 9M723 rocket also depends on the distance to the target, which is shown in figure below.
  
- 
+ ![image](https://user-images.githubusercontent.com/118617819/211164574-e9bfaaaf-0b5c-4b2d-a70a-37b2a279c745.png)
+
+In the terminal phase, the 9M723 rocket is affected by overloads of up to 30g. However, these are temporary overloads, and for most of the maneuver the overload does not exceed 10g. The characteristics of the overloads acting on the missile depend on the maneuvers occurring.
+
+![image](https://user-images.githubusercontent.com/118617819/211164593-7c2fc664-1859-4742-828f-e7929087de1e.png)
+
+## Maneuverability
+When analyzing the final phase of the rocket's flight, one should pay attention to the maneuverability of the 9M723 missile. Studies have been carried out to what extent the rocket can change its trajectory during the flight. The graphs below illustrate to what extent Iskander can deviate its trajectory for the same initial values in the boost phase.
+
+![image](https://user-images.githubusercontent.com/118617819/211164637-d134d25b-0c6e-40d0-bd6f-8ca599983827.png)
+![image](https://user-images.githubusercontent.com/118617819/211164642-ef4ee941-5369-495c-ae52-5d9dbd9e23c1.png)
+![image](https://user-images.githubusercontent.com/118617819/211164659-f60f0235-26e0-4e6a-a17a-cf9e7c858e9c.png)
+
+
+
