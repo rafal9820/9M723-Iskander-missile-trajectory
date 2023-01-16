@@ -1,14 +1,14 @@
 MATHEMATICS IDENTIFICATION
 
 
-% F - applied forces vector [N]
-% Q - Gravity force [N]
-% R - Aerodynamic force [N]
-% T - thrust force [N]
+F - applied forces vector [N]
+Q - Gravity force [N]
+R - Aerodynamic force [N]
+T - thrust force [N]
 
-% M_st - Static aerodynamic moment [N*m]
-% M_dm - Dynamic aerodynamic moment [N*m]
-% M - Aerodynamic moment [N*m]
+M_st - Static aerodynamic moment [N*m]
+M_dm - Dynamic aerodynamic moment [N*m]
+M - Aerodynamic moment [N*m]
 
 U - velocity about x body axis [m/s] 
 V - velocity about y body axis [m/s]
