@@ -1,4 +1,4 @@
-%% determination of moments of inertia determined with data (.mpr) from Autocad
+%% determination of moments of inertia determined with data (.mpr) from Autocad 
 %% Data from .mpr files
 
 % mass of the rocket
