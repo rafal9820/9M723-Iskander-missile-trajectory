@@ -1,4 +1,4 @@
-%% aerodynamic coefficients of rocket 9M723 determined with Prodas Software
+%% aerodynamic coefficients of rocket 9M723 determined with Prodas Software 
 %% Data from Prodas Software
 
 % Aerodynamic_Force_Coefficients
