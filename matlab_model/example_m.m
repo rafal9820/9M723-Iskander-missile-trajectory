@@ -8,6 +8,7 @@ zc = 0;
 
 % distance to the target [km]
 D = sqrt(xc^2 + yc^2)
+
 % programmable inclination angle for the starting phase
 gamma_pb = deg2rad(24.6);
 
