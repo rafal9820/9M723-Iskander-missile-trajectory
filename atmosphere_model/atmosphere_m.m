@@ -1,4 +1,4 @@
-%% Atmosphere model ISO 2533
+%% Atmosphere model ISO 2533 
 %% calculations of atmospheric parameters
 
 % range of altitude
